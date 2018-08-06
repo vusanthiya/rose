@@ -2,7 +2,7 @@ public class CountDigits
 {
   public class void main(String args[])
   {
-    int count=0,a=12345;
+    int count=0,a=548;
     while(a!=0)
     {
       a=a/10;
